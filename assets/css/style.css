@@ -13,25 +13,26 @@ float: left;
 	width: 150px;
 	height: 150px;
 	background-image: url(http://lorempixel.com/output/abstract-q-c-150-150-2.jpg);
+	z-index: 99;
 }
 
 #crystal-2{
 	width: 150px;
 	height: 150px;
-	background-image: url(http://lorempixel.com/output/abstract-q-c-150-150-6.jpg);
+	background-image: url(http://lorempixel.com/output/abstract-q-c-150-150-4.jpg);
 	display: inline-block;
 }
 
 #crystal-3{
 	width: 150px;
 	height: 150px;
-	background-image: url(http://lorempixel.com/output/abstract-q-c-150-150-1.jpg);
+	background-image: url(http://lorempixel.com/output/abstract-q-c-150-150-6.jpg);
 }
 
 #crystal-4{
 	width: 150px;
 	height: 150px;
-	background-image: url(http://lorempixel.com/output/abstract-q-c-150-150-5.jpg);
+	background-image: url(http://lorempixel.com/output/abstract-q-c-150-150-1.jpg);
 }
 
 #random-number-box{
